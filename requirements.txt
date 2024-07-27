@@ -1,0 +1,7 @@
+streamlit
+pandas
+praw
+rich
+# nest_asyncio
+asyncpraw
+google-cloud-aiplatform
